@@ -1,2 +1,1 @@
-# personal_dashboard
-created personal dashboard
+# Chrome-Extension-Dashboard
