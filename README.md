@@ -16,3 +16,7 @@ CryptoDash is a Chrome extension that serves as a dashboard to display current c
 - **Dynamic Chrome Background:** Enjoy a visually engaging experience as the extension dynamically changes the background of your Chrome browser based on market conditions. 🎨
 
 - **Intuitive UI:** The user interface is designed for simplicity and ease of use, making it accessible for both beginners and experienced users. 🖥️
+
+## Screenshots
+
+![Screenshot 2023-12-02 234850](https://github.com/kanugurajesh/Chrome-Extension-Dashboard/assets/120458029/24faeb60-dcfa-43e3-9fcd-3bbd630d6f37)
